@@ -5,9 +5,9 @@ I am aware a tutorial would be nice to have and that the first vehicle (the van)
 To quickly earn money I recommend the pursuit mode.
 
 
-WebGL Build: (*Recommended only for keyboard, although it works with touch controls the web version has some bugs the .apk Android version does not.*)
-https://play.unity.com/mg/other/supersupermax
+[Browser WebGL Build](https://play.unity.com/mg/other/supersupermax) (*Recommended only for keyboard, although it works with touch controls the web version has some bugs the .apk Android version does not.*)
 
 
-Android Build:
-*To be uploaded...*
+
+[Android Build](https://drive.google.com/file/d/14AoBa1SIvVnSVAEn3EF1g8fb0tFH5qeL/view?usp=sharing) (*Hosted in GDrive, if a portal accepts my APK I will change the link).
+Some advice: After installing dont open the app, first put the phone horizontally then open the app. Dont use the van that first vehicle (the van) go to the shop and change it.
